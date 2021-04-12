@@ -32,13 +32,13 @@
     * Whenever new command is added to append log file -> class fsync() eachtime
     * or keep calling fsync() in every second (so at max there will be data loss of 1 second)   
 
-# Redis Vs [Other Key-Value](https://en.wikipedia.org/wiki/NoSQL#Key-value_stores) Stores
+## Redis Vs [Other Key-Value](https://en.wikipedia.org/wiki/NoSQL#Key-value_stores) Stores
 * In Redis values can contain 
   * multiple complex data types
   * with atomic operation defined on those data types
 * Redis is in-memory datastore along with Async persistance on disk
 
-# Redis CLI
+## Redis CLI
 * Run the redis server with below command from the terminal / cmd
   ```
   $redis-server" 
@@ -54,11 +54,11 @@
   ```
   $redis-cli -h <hostname> -p <port> -a <password>
   ```
-# Redis GUI Tool
+## Redis GUI Tool
 * There are many tools available for Redis GUI, free and most convinient is 
   * another redis desktop manager [ref](https://www.electronjs.org/apps/anotherredisdesktopmanager)
 
-# Redis Database / Schemas
+## Redis Database / Schemas
 
 WIP
 
