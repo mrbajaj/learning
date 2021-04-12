@@ -17,14 +17,14 @@
     * Web page hit count
   * Messaging Queues (Redis natively supports Pub-Sub)
 * Different Data types of Redis values
- * String
- * Lists
- * Sets
- * Sorted Sets
- * Hashes
- * Bitmaps
- * HyperLogLog
- * Geo Spatial Indexes
+  * String
+  * Lists
+  * Sets
+  * Sorted Sets
+  * Hashes
+  * Bitmaps
+  * HyperLogLog
+  * Geo Spatial Indexes
 * Durability with Redis
  * There is always tradeoff between durability and speed
  * So because the data is stored in-memroy, there are chances of data loss
