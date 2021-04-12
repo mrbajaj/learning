@@ -9,7 +9,6 @@
 * Redis can have key length max size of 2GB
 * Sides is Single Threaded 
 * Redis supports simple master-slave replication
-* 
 * Following are popular usecases for the use of redis
   * Caching 
   * Any short living data in the application
