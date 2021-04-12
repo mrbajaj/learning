@@ -73,6 +73,7 @@ WIP
 * [redis-scan-count-match](https://redis.io/commands/scan)
 * [manage-redis-db-keys](https://www.digitalocean.com/community/cheatsheets/how-to-manage-redis-databases-and-keys#:~:text=Redis%20databases%20are%20numbered%20from,select%2015)
 * [redis-all-commands](https://www.javatpoint.com/redis-all-commands)
+* [redis-interview-questions-and-answers](https://www.javatpoint.com/redis-interview-questions-and-answers)
 
 ### Video Tutorials:
 * [Redis Course - In-Memory Database Tutorial by **freeCodeCamp.org**](https://www.youtube.com/watch?v=XCsS_NVAa1g)
