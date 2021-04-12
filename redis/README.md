@@ -32,7 +32,7 @@
     * Whenever new command is added to append log file -> class fsync() eachtime
     * or keep calling fsync() in every second (so at max there will be data loss of 1 second)   
 
-# Redis Vs Other Key-Value Stores (like memcached)
+# Redis Vs [Other Key-Value](https://en.wikipedia.org/wiki/NoSQL#Key-value_stores) Stores
 * In Redis values can contain 
   * multiple complex data types
   * with atomic operation defined on those data types
