@@ -26,11 +26,41 @@
   * HyperLogLog
   * Geo Spatial Indexes
 * Durability with Redis
- * There is always tradeoff between durability and speed
- * So because the data is stored in-memroy, there are chances of data loss
- * To minimize the data loss, Redis provides option to persist data on disk Asynchronously
-  * Whenever new command is added to append log file -> class fsync() eachtime
-  * or keep calling fsync() in every second (so at max there will be data loss of 1 second)   
+  * There is always tradeoff between durability and speed
+  * So because the data is stored in-memroy, there are chances of data loss
+  * To minimize the data loss, Redis provides option to persist data on disk Asynchronously
+    * Whenever new command is added to append log file -> class fsync() eachtime
+    * or keep calling fsync() in every second (so at max there will be data loss of 1 second)   
+
+# Redis Vs Other Key-Value Stores (like memcached)
+* In Redis values can contain 
+  * multiple complex data types
+  * with atomic operation defined on those data types
+* Redis is in-memory datastore along with Async persistance on disk
+
+# Redis CLI
+* Run the redis server with below command from the terminal / cmd
+  ```
+  $redis-server" 
+  ```
+* then execute "redis-cli" which will open the redis cli terminal
+  ```
+  $redis-cli
+  redis 127.0.0.1:6379>
+  redis 127.0.0.1:6379>ping
+  PONG
+  ```
+* to connect to a remote redis server
+  ```
+  $redis-cli -h <hostname> -p <port> -a <password>
+  ```
+# Redis GUI Tool
+* There are many tools available for Redis GUI, free and most convinient is 
+  * another redis desktop manager [ref](https://www.electronjs.org/apps/anotherredisdesktopmanager)
+
+# Redis Database / Schemas
+
+WIP
 
 
 ---
