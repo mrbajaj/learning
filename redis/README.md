@@ -15,7 +15,7 @@
     * Web application session
     * Web page hit count
   * Messaging Queues (Redis natively supports Pub-Sub)
-* Different Data types of Redis values
+* Different Data types of Redis values [Redis Commands](https://redis.io/commands/#)
   * String
   * Lists
   * Sets
@@ -59,7 +59,12 @@
 
 ## Redis Database / Schemas
 
-WIP
+## Redis KesySpace in Detail
+
+## Redis String
+
+
+## Redis List
 
 
 
