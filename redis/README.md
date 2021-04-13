@@ -58,18 +58,52 @@
   * another redis desktop manager [ref](https://www.electronjs.org/apps/anotherredisdesktopmanager)
 
 ## Redis Database / Schemas
+ * WIP
 
-## Redis KesySpace in Detail
+## Redis KeySpace in Detail
+ * WIP
 
-## Redis String
+## Redis Data Types in details
 
+### Strings (no prefix)
+ * WIP
+ 
+### Lists 
+ * WIP
 
-## Redis List
+### Hashesh (HashMap)
+ * WIP
+ 
+### Sets
+ * WIP
 
+### Sorted Sets
+ * WIP
 
+### BitMaps 
+ * WIP
 
+### HyperLogLog
+ * WIP
 
----
+### GeoSpatial Indexes
+ * WIP
+
+## Redis as Pub-Sub
+ * WIP
+
+## Redis Persistance
+ * WIP
+
+## Redis Backup and Recovery
+ * WIP
+
+## Redis Master Slave
+ * WIP
+
+## Redis Cluster
+ * WIP
+
 ---
 
 ### References:
