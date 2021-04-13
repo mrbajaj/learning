@@ -1,4 +1,4 @@
-->Learn Redis<-
+# Learn Redis
 ## Highlights
 * ReDiS stands for **Re**mote **Di**ctionary **S**erver
 * It is a NoSQL (Key-Value Store) open-source data store
