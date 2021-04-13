@@ -66,7 +66,7 @@
 
 ## Redis Data Types in details
 
-### Strings (no prefix)
+### Strings
  * WIP
  
 ### Lists 
