@@ -1,4 +1,5 @@
-# Redis Highlights:
+->Learn Redis<-
+## Highlights
 * ReDiS stands for **Re**mote **Di**ctionary **S**erver
 * It is a NoSQL (Key-Value Store) open-source data store
 * It is in-memory data store and data can also be persited on disk aynchronously
