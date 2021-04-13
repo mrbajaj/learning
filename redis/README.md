@@ -114,9 +114,9 @@
 * [manage-redis-db-keys](https://www.digitalocean.com/community/cheatsheets/how-to-manage-redis-databases-and-keys#:~:text=Redis%20databases%20are%20numbered%20from,select%2015)
 * [redis-all-commands](https://www.javatpoint.com/redis-all-commands)
 * [redis-interview-questions-and-answers](https://www.javatpoint.com/redis-interview-questions-and-answers)
+* [redis-usecases](https://medium.com/@juwelariful1/what-is-redis-and-why-with-use-case-1b294b91e373)
 
 ### Video Tutorials:
 * [Redis Course - In-Memory Database Tutorial by **freeCodeCamp.org**](https://www.youtube.com/watch?v=XCsS_NVAa1g)
 * [Redis Crash Course Tutorial by **Traversy Media**](https://www.youtube.com/watch?v=Hbt56gFj998)
 * [Redis Basics: Strings, Hashes, Lists, Pub/Sub by** Engineer Man**](https://www.youtube.com/watch?v=YWIzp3fRvvY&list=PL6HWCwMwHtEA2ByOcodpVQDJmR-BnLFU0&index=5)
-
