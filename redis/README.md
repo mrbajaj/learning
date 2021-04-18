@@ -90,6 +90,9 @@
 ### GeoSpatial Indexes
  * WIP
 
+## Redis Transactions [ref](https://redis.io/topics/transactions)
+ * WIP
+
 ## Redis as Pub-Sub
  * WIP
 
