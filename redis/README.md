@@ -120,6 +120,7 @@
 * [redis-interview-questions-and-answers](https://www.javatpoint.com/redis-interview-questions-and-answers)
 * [redis-usecases](https://medium.com/@juwelariful1/what-is-redis-and-why-with-use-case-1b294b91e373)
 * [redis-sentinel-high-availability](https://medium.com/@amila922/redis-sentinel-high-availability-everything-you-need-to-know-from-dev-to-prod-complete-guide-deb198e70ea6#:~:text=How%20Redis%20offers%20High%20Availability,mode%20without%20any%20human%20intervention.)
+* [Data-Modeling-In-Redis](https://www.openmymind.net/Data-Modeling-In-Redis/)
 
 
 ### Video Tutorials:
