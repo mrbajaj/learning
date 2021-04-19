@@ -105,7 +105,7 @@
 ## Redis Master Slave
  * WIP
 
-## Redis Cluster
+## Redis Cluster and Redis Sentinel
  * WIP
 
 ---
