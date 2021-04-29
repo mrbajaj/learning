@@ -122,7 +122,6 @@
 * [redis-sentinel-high-availability](https://medium.com/@amila922/redis-sentinel-high-availability-everything-you-need-to-know-from-dev-to-prod-complete-guide-deb198e70ea6#:~:text=How%20Redis%20offers%20High%20Availability,mode%20without%20any%20human%20intervention.)
 * [Data-Modeling-In-Redis](https://www.openmymind.net/Data-Modeling-In-Redis/)
 
-
 ### Video Tutorials:
 * [Redis Course - In-Memory Database Tutorial by **freeCodeCamp.org**](https://www.youtube.com/watch?v=XCsS_NVAa1g)
 * [Redis Crash Course Tutorial by **Traversy Media**](https://www.youtube.com/watch?v=Hbt56gFj998)
